@@ -1,3 +1,5 @@
+package overloading;
+
 public class Figure {
     // overloading
     public int calculation(int a, int b){
